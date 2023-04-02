@@ -19,7 +19,7 @@ export default function App() {
 }
 
 const test = () => {
-  console.log("testtttt");
+  console.log("testttttyyy");
 };
 
 const styles = StyleSheet.create({
