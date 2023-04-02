@@ -18,6 +18,10 @@ export default function App() {
   );
 }
 
+const test = () => {
+  console.log("testtttt");
+};
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
